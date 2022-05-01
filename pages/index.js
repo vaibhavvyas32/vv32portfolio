@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import AboutMe from "../components/aboutme";
+import AboutMe from "../components/AboutMe";
 import Projects from "../components/Projects";
 
 const Home = () => (
