@@ -14,13 +14,13 @@ const HeroSection = () => {
             className="rounded-full"
           />
         </span>
-        <p className="font-Montserrat font-extrabold text-5xl">
+        <h2 className="font-Montserrat font-extrabold text-5xl">
           I'm Vaibhav Vyas
           <div className="line__of__death mt-2 border-t-2 ml-5 mr-5 "></div>
-        </p>
-        <p className="font-Montserrat font-bold text-2xl text-gray-600 pt-2">
+        </h2>
+        <h3 className="font-Montserrat font-bold text-2xl text-gray-600 pt-2">
           CSE | ReactJS | Gamer
-        </p>
+        </h3>
         <span className="contact__links pt-[1rem]">
           <ul className="flex space-x-2 items-center">
             <li>
